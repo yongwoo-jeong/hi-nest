@@ -10,6 +10,6 @@ export class MoviesService {
   }
 
   getOne(id: string): Movie {
-    return this.movies.find((movie) => movie.id === parseInt(id));
+    return this.movies.find((movie) => movie.id === +id);
   }
 }

@@ -24,7 +24,12 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Build REST API using [Nest] for MOVIE info.
+
+- [x] Correctors
+- [x] Providers
+- [x] Dependency Injection
+- [x] Test: Unit, e2e
 
 ## Installation
 
